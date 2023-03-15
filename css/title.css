@@ -1,0 +1,27 @@
+h1, h2{ 
+    margin: 0;
+    font-size: 20px;
+    font-family: 'Press Start 2P';
+    background-color: #576574;
+    height: 40px;
+    width: 400px;
+    padding: 10px; 
+    text-align: center; 
+}
+h1{
+    position: absolute;
+    box-shadow: 4px 4px 4px #000;
+    top: 180px;
+    left: 80px;
+    font-size: 25px;
+    color: #ff9f43;
+}
+h2{
+    position: absolute;
+    box-shadow: 4px 4px 4px #000;
+    top: 220px;
+    left: 80px;
+    font-size: 20px;
+    color: #00d2d3;
+
+}
