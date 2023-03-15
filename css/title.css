@@ -1,4 +1,4 @@
-h1, h2{ 
+/*h1, h2{ 
     margin: 0;
     font-size: 20px;
     font-family: 'Press Start 2P';
@@ -7,12 +7,11 @@ h1, h2{
     width: 400px;
     padding: 10px; 
     text-align: center; 
-}
+}*/
 h1{
-    position: absolute;
-    box-shadow: 4px 4px 4px #000;
-    top: 180px;
-    left: 80px;
+    font-family: 'Press Start 2P';
+    text-shadow: 4px 4px 0 #000;
     font-size: 25px;
     color: #ff9f43;
+    
 }
