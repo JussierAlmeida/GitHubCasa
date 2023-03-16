@@ -1,0 +1,12 @@
+.banner{
+    background-image: url(../../assest/img/banner-desenvolvimento.jpeg);
+    height: 800px;
+    background-size:100% ;
+    background-repeat: no-repeat;
+    border-bottom: 10px solid #000;
+    /*position: absolute;
+    height: 600px;
+    width: 100%;
+    z-index: 1;*/
+    
+}
