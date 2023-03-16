@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 10px solid #000;
+    background-color: #00d2d3;
+    padding: 10px 20px;
+}
+#perfil{
+    height: 60px;
+    width: 50px;
+}
