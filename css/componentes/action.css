@@ -1,5 +1,5 @@
 .action{
-    display: inline-flex;
+    display: inline-block;
     align-items: center;
     color: #fff;
     font-size: 20px;

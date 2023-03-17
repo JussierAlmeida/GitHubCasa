@@ -4,10 +4,7 @@
     box-shadow: 10px 10px 0 #000;
     text-align: center;
     padding: 42px 44px ;  
-    margin-top:116px ;
-    margin-left: 91px;
-    position: absolute;
-    z-index: 2;
+    margin-bottom: 20px;
 }
 .box title{
     margin-bottom: 28px;
