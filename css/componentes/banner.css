@@ -5,22 +5,14 @@
     background-repeat: no-repeat;
     border-bottom: 10px solid #000; 
     padding-top: 116px;
-    padding-left: 91px;
-    padding-bottom: 20px; 
-    
+    padding-left: 91px;  
 }
 .banner .wrapper{
     display: flex;
     flex-direction: column;
     width: 630px;
-    
-    
-    
-    
 }
 .banner .navigation{
     justify-content: space-around;
     display: flex;
-    
-
 }
