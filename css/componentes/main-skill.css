@@ -1,4 +1,5 @@
 .main-skill{
+    align-items: center;
     display: flex;
     font-family: 'press Start 2P';
     color: #fff;
@@ -6,9 +7,13 @@
 }
 .main-skill .icon{
     margin-right: 25px;
+    width: 90px;
 }
 .main-skill .right{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+}
+.main-skill .title{
+    margin-bottom: 16px;
 }

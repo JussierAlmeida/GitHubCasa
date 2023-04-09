@@ -2,5 +2,29 @@
     background-color: #BA1F33;
     height: 600px;
     background-size:100% ;
-    border-bottom: 10px solid #000; 
+    border-bottom: 10px solid #4c5b84 
+}
+.section .main-title{
+    padding-top: 10px;
+    margin-bottom: 60px;
+}
+.section.-bdfirst{
+    background-color: #000;
+    border-bottom: 10px solid #7c5e99; 
+}
+.section.-bdfirst .wrapper-projetos{
+    display: flex;
+    justify-content:space-around;     
+}
+.card-project{
+    justify-content: center;
+    align-items: center;
+    width: 280px;
+    height: 280px;
+    box-shadow: 8px 8px 0 #fff;
+    display: flex;
+    background-color:#7c5e99;
+}
+.card-project.-blue{
+    background-color:#4c5b84;
 }
