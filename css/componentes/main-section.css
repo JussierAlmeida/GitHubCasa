@@ -1,18 +1,18 @@
-.section{
+.main-section{
     background-color: #BA1F33;
     height: 600px;
     background-size:100% ;
     border-bottom: 10px solid #4c5b84 
 }
-.section .main-title{
+.main-section .main-title{
     padding-top: 10px;
     margin-bottom: 60px;
 }
-.section.-bdfirst{
+.main-section.-bdfirst{
     background-color: #000;
     border-bottom: 10px solid #7c5e99; 
 }
-.section.-bdfirst .wrapper-projetos{
+.main-section.-bdfirst .wrapper-projetos{
     display: flex;
     justify-content:space-around;     
 }
